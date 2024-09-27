@@ -2,7 +2,7 @@
 
 ### Project Title: E-Commerce Sales
 
-[Project Overview](
+[Project Overview](#project-overview)
 [Data Sources](#data-sources)
 
 
