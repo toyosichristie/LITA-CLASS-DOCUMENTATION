@@ -3,8 +3,18 @@
 ### Project Title: E-Commerce Sales
 
 [Project Overview](#project-overview)
+
 [Data Sources](#data-sources)
 
+[Tools Used](#Tools Used)
+
+[Data Cleaning and Preparation](#Data Cleaning and Preparation)
+
+[Exploratory Data Analysis](#Exploratory Data Analysis)
+
+[Data Analysis](#Data Analysis)
+
+[Data Visualization](#Data Visualization)
 
 ### Project Overview
 This Data analysis project 
@@ -32,6 +42,7 @@ include basic line of code
 ```SQL
 SELEct*FROM TABLe1
 WHERE
+```
 
 ### Data Visualization
 
@@ -39,4 +50,4 @@ WHERE
 
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
-|Table 1  |Table 2    |Table 3|
+|Table 1  |Table 2  |Table 3  |
